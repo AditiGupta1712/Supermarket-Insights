@@ -1,10 +1,10 @@
 # Supermarket Insights: Leveraging SQL for Data Analysis and Decision Making
 
-This project focuses on analyzing supermarket data using SQL queries to extract insights and make data-driven decisions. It involves analyzing product popularity, customer shopping patterns, associations, and optimizing inventory based on the dataset.
+This project focuses on analyzing supermarket data using SQL queries to extract insights and make data-driven decisions. It involves analyzing product popularity, customer shopping patterns, and associations, and optimizing inventory based on the dataset.
 
 ## Project Overview
 
-The goal of this project is to analyze the supermarket data using SQL queries and uncover meaningful patterns and associations. By examining product popularity, customer shopping patterns, and other relevant factors, the project aims to provide actionable insights for improving various aspects of supermarket operations.
+This project aims to analyze supermarket data using SQL queries and uncover meaningful patterns and associations. By examining product popularity, customer shopping patterns, and other relevant factors, the project aims to provide actionable insights for improving various aspects of supermarket operations.
 
 ## Tools and Technologies
 
@@ -13,7 +13,7 @@ The goal of this project is to analyze the supermarket data using SQL queries an
 
 ## DDL (Data Definition Language)
 
-The DDL section includes the SQL statements for creating the necessary database tables: aisles, departments, product, orders, and order_product. Foreign key constraints are also defined to establish relationships between the tables.
+The DDL section includes the SQL statements for creating the necessary database tables: aisles, departments, products, orders, and order_product. Foreign key constraints are also defined to establish relationships between the tables.
 
 ## DML (Data Manipulation Language)
 
@@ -43,4 +43,4 @@ To get started with the project, follow these steps:
 4. Use SQL queries to analyze the data and extract insights.
 5. Document the analysis findings and recommendations.
 
-Thank you for your interest in the "Supermarket SQL Project"!
+I appreciate your interest in the "Supermarket Insights Project"!
