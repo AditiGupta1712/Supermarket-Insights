@@ -1,4 +1,4 @@
-# Supermarket SQL Project
+# Supermarket Insights: Leveraging SQL for Data Analysis and Decision Making
 
 This project focuses on analyzing supermarket data using SQL queries to extract insights and make data-driven decisions. It involves analyzing product popularity, customer shopping patterns, associations, and optimizing inventory based on the dataset.
 
